@@ -2,7 +2,7 @@ export default function Card(props) {
 
   return (
     <div className="card">
-      <img src={`../public/assets/${props.item.image}`} alt="Site Photo" className="card--img"/>
+      <img src={`/assets/${props.item.image}`} alt="Site Photo" className="card--img"/>
       <div className="card--info">
         <div className="card--location">
           <i className="fa-solid fa-location-dot"></i>
