@@ -25,6 +25,24 @@ const data = [
     endDate: "8 October, 2020",
     description: "Schönbrunn Palace is one of Europe's most beautiful Baroque complexes and has been in the possession of the Habsburgs since 1569. The wife of Emperor Ferdinand II, Eleonore von Gonzaga, had a pleasure palace built on the site in 1642 and called the property 'Schönbrunn' for the first time.",
     image: "sissy-palace.jpeg"
+  },
+  {
+    title: "Cala Figuera",
+    location: "Mallorca, Spain",
+    googleMapsUrl: "https://maps.app.goo.gl/AZiz7uqz4XRKkPtf9",
+    startDate: "9 September, 2018",
+    endDate: "15 September, 2018",
+    description: "Cala Figuera (not to be confused with the beach in Formentor), is a picturesque fishing port in the southeastern municipality of Santanyí. The striking coastline forms a Y-shape with two long inlets shaping the well-protected coves of Caló d'en Boira and Caló d'en Busques.",
+    image: "calafiguera.jpeg"
+  },
+  {
+    title: "Palácio Nacional de Sintra",
+    location: "Sintra, Portugal",
+    googleMapsUrl: "https://maps.app.goo.gl/ELYzjTH2oAix5we66",
+    startDate: "12 October, 2020",
+    endDate: "15 October, 2020",
+    description: "An area of former royal summer residence, Sintra possesses a beauty that was celebrated by Lord Byron in his poem Childe Harold's Pilgrimage, and English author Robert Southey referred to Sintra as “the most blessed spot on the whole inhabitable globe.” Sintra was designated a UNESCO World Heritage site in 1995.",
+    image: "sintra.jpeg"
   }
 ]
 
