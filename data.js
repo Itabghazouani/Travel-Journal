@@ -27,6 +27,15 @@ const data = [
     image: "sissy-palace.jpeg"
   },
   {
+    title: "Széchenyi Thermal Bath",
+    location: "Budapest, Hungary",
+    googleMapsUrl: "https://maps.app.goo.gl/7bqNSMHEQrCQXckZ8",
+    startDate: "14 February, 2022",
+    endDate: "18 October, 2020",
+    description: "Szechenyi Baths (built in 1913) is the most visited and much praised attraction in Budapest: relaxing, fun, affordable and, at night, romantic. In addition to the marvellous medicinal natural hot spring waters in the 18 pools, there are 10 saunas / steam cabins, several massage therapies, facial treatments, and more.",
+    image: "budapest.jpeg"
+  },
+  {
     title: "Cala Figuera",
     location: "Mallorca, Spain",
     googleMapsUrl: "https://maps.app.goo.gl/AZiz7uqz4XRKkPtf9",
